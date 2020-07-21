@@ -1,2 +1,2 @@
-# Chatbot
-React Chatbot
+# Chat Application
+React Chat Application
